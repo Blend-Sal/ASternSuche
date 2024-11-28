@@ -1,0 +1,100 @@
+Hünfeld;Elmshorn
+Bohmte;Kappeln
+Kirchheim unter Teck;Speyer
+Leutkirch im Allgäu;Schwandorf
+Memmingen;Salzwedel
+Haiger;Coswig
+Bad Soden am Taunus;Heide
+Rhaude;Rehfelde
+Bad Segeberg;Hildburghausen
+Riesa;Kaufbeuren
+Clausthal-Zellerfeld;Henstedt-Ulzburg
+Wittlich;Großenhain
+Coswig;Kleve
+Einbeck;Rehlingen-Siersburg
+Königsee;Bad Vilbel
+Treffurt;Ebersbach an der Fils
+Lehrte;Zehdenick
+Grünstadt;Brunsbüttel
+Idstein;Nürnberg
+Gommern;Krefeld
+Flörsheim;Emstek
+Wiesenburg;Wertheim
+Andernach;Nordhausen
+Filderstadt;Senftenberg
+Nordenham;Oldenburg in Holstein
+Lengede;Schwalbach
+Oestrich-Winkel;Vechta
+Saarwellingen;Idar-Oberstein
+Wismar;Wangen im Allgäu
+Ahaus;Obertshausen
+Oldenburg in Holstein;Waghäusel
+Freudenstadt;Falkenberg
+Coburg;Dippoldiswalde
+Tarp;Wittenberge
+Bredstedt;Sarstedt
+Kurort Steinbach-Hallenberg;Hockenheim
+Hemer;Moers
+Wiesloch;Freudenstadt
+Horb am Neckar;Geislingen an der Steige
+Handewitt;Gelnhausen
+Dinslaken;Calau
+Königsee;Wendeburg
+Templin;Grünstadt
+Schorndorf;Selm
+Stadtroda;Teutschenthal
+Wriezen;Dortmund
+Hagen im Bremischen;Saalfeld
+Merzig;Löhne
+Ismaning;Potsdam
+Heilbad Heiligenstadt;Großrosseln
+Barsbüttel;Korbach
+Neuenhaus;Germersheim
+Kyritz;Werlte
+Langen;Glinde
+Gröditz;Burgdorf
+Braunfels;Geesthacht
+Steinfeld;Paderborn
+Reinfeld;Wallenhorst
+Grünheide;Großburgwedel
+Eutin;Uelzen
+Bayreuth;Großbeeren
+Hohenlockstedt;Osterwieck
+Süderbrarup;Diez
+Bordesholm;Wangen im Allgäu
+Bad Essen;Zeven
+Weingarten;Petersberg
+Wiehl;Beeskow
+Teutschenthal;Bad Salzungen
+Leipzig;Wiefelstede
+Lohfelden;Beverstedt
+Taufkirchen;Nördlingen
+Bad Neustadt;Löhne
+Senden;Barmstedt
+Brackenheim;Kaarst
+Zirndorf;Wittingen
+Rheinbach;Ensdorf
+Roth;Ismaning
+Heiligenhafen;Borna
+Wittingen;Balingen
+Gettorf;Sankt Augustin
+Braunfels;Weinböhla
+Dautphe;Herten
+Erkrath;Weener
+Altenholz;Taunusstein
+Barßel;Bad Oeynhausen
+Trebbin;Osnabrück
+Trebur;Zweibrücken
+Bad Blankenburg;Haldensleben
+Genthin;Zweibrücken
+Frankfurt (Oder);Hohenwestedt
+Mülsen;Hohenwestedt
+Glückstadt;Greven
+Schönkirchen;Gommern
+Mölln;Wiefelstede
+Ingolstadt;Hatten
+Neunkirchen;Achern
+Aschersleben;Achim
+Schloß Holte-Stukenbrock;Eisfeld
+Ginsheim-Gustavsburg;Sankt Ingbert
+Großbeeren;Doberlug-Kirchhain

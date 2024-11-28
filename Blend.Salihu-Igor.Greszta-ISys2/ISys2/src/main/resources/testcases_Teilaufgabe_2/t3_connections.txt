@@ -1,0 +1,6 @@
+city 1; city 2; d
+A;C;10
+C;D;10
+D;E;10
+D;F;10
+E;B;10

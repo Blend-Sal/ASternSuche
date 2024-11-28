@@ -1,0 +1,7 @@
+city;h;L
+A;99;false
+B;0;false
+C;91;true
+D;40;false
+E;20;false
+F;40;false
